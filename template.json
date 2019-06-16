@@ -26,7 +26,6 @@
       }
     ]
   },
- 
   {  
     "type": 1,
     "title": "oscam",
@@ -138,7 +137,7 @@
       }
     ]
   },
-    {  
+  {  
     "type": 1,
     "title": "nzbget",
     "description": "NZBGet is a usenet downloader, written in C++ and designed with performance in mind to achieve maximum download speed by using very little system resources. It supports all platforms including Windows, Mac, Linux and works on all devices including PC, NAS, WLAN routers and media players",
@@ -166,7 +165,7 @@
       }
     ]
   },
-   {  
+  {  
     "type": 1,
     "title": "deluge",
     "description": "Deluge is a lightweight, Free Software, cross-platform BitTorrent client providing: Full Encryption, WebUI, Plugin System, Much more...",
@@ -196,7 +195,7 @@
       }
     ]
   },
-    {  
+  {  
     "type": 1,
     "title": "plex",
     "description": null,
@@ -544,5 +543,4 @@
       }
     ]
   }
-  
 ]
